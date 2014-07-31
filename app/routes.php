@@ -25,7 +25,7 @@ Route::get('/community/streamers', 'ViewController@streamers');
 
 Route::get('/community/teamspeak', 'ViewController@teamspeak');
 
-Route::get('/ourStaff', 'ViewController@ourStaff');
+Route::get('/ourStaff', 'ViewController@ourStaff'); // garrrr
 
 Route::get('/donations', 'ViewController@donations');
 
