@@ -48,11 +48,11 @@
                                                                 <li class="dropdown">
 									<a href="#">Our Community</a>
 									<ul class="sub-menu dropdown-menu">
-										<li><a href="ranked-team.html">Ranked Team</a></li>
-										<li><a href="tryouts.html">Tryouts</a></li>
-										<li><a href="streamers.html">Streamers</a></li>
+										<li><a href="/community/ranked-team">Ranked Team</a></li>
+										<li><a href="/community/tryouts">Tryouts</a></li>
+										<li><a href="/community/streamers">Streamers</a></li>
                                                                                 <!-- Item below will have player List too -->
-										<li><a href="teamspeak.html">Teamspeak Info</a></li>
+										<li><a href="/community/teamspeak">Teamspeak Info</a></li>
 									</ul>
 								</li>
                                 <li><a href="/calendar">Calendar</a></li>
