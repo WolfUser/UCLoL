@@ -16,7 +16,6 @@ class ViewController extends BaseController {
 		$this->layout->content = View::make('calendar');
 	}
 
-<<<<<<< HEAD
 	public function rankedTeam() {
 		$this->layout->content = View::make('community/rankedteam');
 	}
@@ -40,6 +39,4 @@ class ViewController extends BaseController {
 	public function donations() {
 		$this->layout->content = View::make('donations');
 	}
-=======
->>>>>>> parent of 4f5cedf... Community drop down
 }
