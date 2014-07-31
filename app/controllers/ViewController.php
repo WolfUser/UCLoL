@@ -16,4 +16,12 @@ class ViewController extends BaseController {
 		$this->layout->content = View::make('calendar');
 	}
 
+	public function ourStaff() {
+		$this->layout->content = View::make('ourStaff');
+	}
+
+	public function donations() {
+		$this->layout->content = View::make('donations');
+	}
+
 }

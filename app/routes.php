@@ -16,3 +16,7 @@ Route::get('/', "ViewController@home");
 Route::get('/announcements', 'ViewController@announcements');
 
 Route::get('/calendar', 'ViewController@calendar');
+
+Route::get('/ourStaff', 'ViewController@ourStaff');
+
+Route::get('/donations', 'ViewController@donations');
