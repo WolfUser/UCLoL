@@ -25,11 +25,7 @@ Route::get('/community/streamers', 'ViewController@streamers');
 
 Route::get('/community/teamspeak', 'ViewController@teamspeak');
 
-<<<<<<< HEAD
 Route::get('/ourstaff', 'ViewController@ourStaff');
-=======
-Route::get('/ourStaff', 'ViewController@ourStaff'); // garrrr
->>>>>>> origin/master
 
 Route::get('/donations', 'ViewController@donations');
 
