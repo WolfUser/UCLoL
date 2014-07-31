@@ -17,6 +17,7 @@ class ViewController extends BaseController {
 	}
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 	public function rankedTeam() {
 		$this->layout->content = View::make('community/rankedteam');
 	}
@@ -41,4 +42,6 @@ class ViewController extends BaseController {
 >>>>>>> origin/master
 	}
 
+=======
+>>>>>>> parent of 4f5cedf... Community drop down
 }
