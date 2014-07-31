@@ -7,7 +7,7 @@
 		<meta name="viewport" content="width=device-width, initial-scale=1.0">
 		<meta name="description" content="">
 		<meta name="keywords" content="">
-		<link rel="shortcut icon" href="img/favicon.png">
+		<link rel="shortcut icon" href="/img/favicon.png">
 		<!-- CSS -->
 		<link rel="stylesheet" href="/css/style.css">
 		<link rel="stylesheet" href="/css/layerslider.css">
@@ -18,7 +18,7 @@
 		<div class="container logo">
 			<!-- UCLOL LOGO GOES HERE -->
 			<a class="brand" href="index.html">
-			<img src="img/logo.png" alt="logo"  />
+			<img src="/img/logo.png" alt="logo"  />
 			</a>
 			<!-- END LOGO -->
 			<!-- SOCIAL LINKS, SEE SOURCE FILE FOR ALL OTHER LINKS THAT WERE DELETED -->
@@ -48,11 +48,11 @@
                                                                 <li class="dropdown">
 									<a href="#">Our Community</a>
 									<ul class="sub-menu dropdown-menu">
-										<li><a href="ranked-team.html">Ranked Team</a></li>
-										<li><a href="tryouts.html">Tryouts</a></li>
-										<li><a href="streamers.html">Streamers</a></li>
-                                                                                <!-- Item below will have player List too -->
-										<li><a href="teamspeak.html">Teamspeak Info</a></li>
+										<li><a href="/community/ranked-team">Ranked Team</a></li>
+										<li><a href="/community/tryouts">Tryouts</a></li>
+										<li><a href="/community/streamers">Streamers</a></li>
+                                        <!-- Item below will have player List too -->
+										<li><a href="/community/teamspeak">Teamspeak Info</a></li>
 									</ul>
 								</li>
                                 <li><a href="/calendar">Calendar</a></li>
