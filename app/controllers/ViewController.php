@@ -16,6 +16,7 @@ class ViewController extends BaseController {
 		$this->layout->content = View::make('calendar');
 	}
 
+<<<<<<< HEAD
 	public function rankedTeam() {
 		$this->layout->content = View::make('community/rankedteam');
 	}
@@ -30,6 +31,14 @@ class ViewController extends BaseController {
 
 	public function teamspeak() {
 		$this->layout->content = View::make('community/teamspeak');
+=======
+	public function ourStaff() {
+		$this->layout->content = View::make('ourStaff');
+	}
+
+	public function donations() {
+		$this->layout->content = View::make('donations');
+>>>>>>> origin/master
 	}
 
 }
