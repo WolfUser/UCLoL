@@ -31,9 +31,9 @@ class ViewController extends BaseController {
 	public function teamspeak() {
 		$this->layout->content = View::make('community/teamspeak');
 	}
-	
+
 	public function ourStaff() {
-		$this->layout->content = View::make('ourStaff');
+		$this->layout->content = View::make('ourstaff');
 	}
 
 	public function donations() {
