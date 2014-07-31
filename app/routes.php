@@ -12,7 +12,7 @@
 */
 
 Route::get('/', "ViewController@home");
-
+// This is another comment
 Route::get('/announcements', 'ViewController@announcements');
 
 Route::get('/calendar', 'ViewController@calendar');
