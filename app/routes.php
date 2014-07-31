@@ -11,6 +11,7 @@
 |
 */
 
+// This is a comment
 Route::get('/', "ViewController@home");
 
 Route::get('/announcements', 'ViewController@announcements');
