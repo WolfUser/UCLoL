@@ -11,7 +11,6 @@
 |
 */
 
-// This is a comment
 Route::get('/', "ViewController@home");
 
 Route::get('/announcements', 'ViewController@announcements');
@@ -26,6 +25,8 @@ Route::get('/community/streamers', 'ViewController@streamers');
 
 Route::get('/community/teamspeak', 'ViewController@teamspeak');
 
-Route::get('/ourstaff', 'ViewController@ourStaff');
+Route::get('/ourStaff', 'ViewController@ourStaff');
 
 Route::get('/donations', 'ViewController@donations');
+
+// comment weeee
