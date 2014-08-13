@@ -1,5 +1,5 @@
 @extends('layouts.master')
 
 @section('content')
-	This is a page.
+	Closer to tryouts we will post more information regarding our ranked teams and things they will be involved in.
 @stop
