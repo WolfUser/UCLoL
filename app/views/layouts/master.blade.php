@@ -23,8 +23,6 @@
 			<!-- END LOGO -->
 			<!-- SOCIAL LINKS, SEE SOURCE FILE FOR ALL OTHER LINKS THAT WERE DELETED -->
 			<div class="social">
-				<a data-original-title="Rss" data-toggle="tooltip" class="rss" target="_blank" href=""><i class="fa fa-rss"></i> </a>
-				<a data-original-title="Youtube" data-toggle="tooltip" class="youtube" target="_blank" href=""><i class="fa fa-youtube"></i> </a>
 				<a data-original-title="Twitch" data-toggle="tooltip" class="twitch" target="_blank" href=""><i class="fa fa-gamepad"></i></a>
 				<a data-original-title="Twitter" data-toggle="tooltip" class="twitter" target="_blank" href=""><i class="fa fa-twitter"></i></a>
 				<a data-original-title="Facebook" data-toggle="tooltip" class="facebook" target="_blank" href=""><i class="fa fa-facebook"></i></a>
