@@ -18,7 +18,7 @@
 		<div class="container logo">
 			<!-- UCLOL LOGO GOES HERE -->
 			<a class="brand" href="index.html">
-			<img src="img/logo.png" alt="logo"  />
+			<img src="/img/logo1.png" alt="logo"  />
 			</a>
 			<!-- END LOGO -->
 			<!-- SOCIAL LINKS, SEE SOURCE FILE FOR ALL OTHER LINKS THAT WERE DELETED -->
