@@ -7,7 +7,7 @@
 		<meta name="viewport" content="width=device-width, initial-scale=1.0">
 		<meta name="description" content="">
 		<meta name="keywords" content="">
-		<link rel="shortcut icon" href="img/favicon.png">
+		<link rel="shortcut icon" href="img/favicon1.png">
 		<!-- CSS -->
 		<link rel="stylesheet" href="/css/style.css">
 		<link rel="stylesheet" href="/css/layerslider.css">
