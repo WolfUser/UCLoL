@@ -23,8 +23,8 @@
 			<!-- END LOGO -->
 			<!-- SOCIAL LINKS, SEE SOURCE FILE FOR ALL OTHER LINKS THAT WERE DELETED -->
 			<div class="social">
-				<a data-original-title="Twitch" data-toggle="tooltip" class="twitch" target="_blank" href=""><i class="fa fa-gamepad"></i></a>
-				<a data-original-title="Twitter" data-toggle="tooltip" class="twitter" target="_blank" href=""><i class="fa fa-twitter"></i></a>
+				<a data-original-title="Twitch" data-toggle="tooltip" class="twitch" target="_blank" href="http://www.twitch.tv/uofcincilol"><i class="fa fa-gamepad"></i></a>
+				<a data-original-title="Twitter" data-toggle="tooltip" class="twitter" target="_blank" href="https://twitter.com/UCLoL"><i class="fa fa-twitter"></i></a>
 				<a data-original-title="Facebook" data-toggle="tooltip" class="facebook" target="_blank" href="https://www.facebook.com/groups/236661509804176/"><i class="fa fa-facebook"></i></a>
 			</div>
 			<!-- END SOCIAL LINKS -->
