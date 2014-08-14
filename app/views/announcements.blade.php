@@ -11,6 +11,7 @@
 	<b>WHAT KIND OF FEATURES WILL THIS WEBSITE HAVE?</b></br>
 	This website has a boat-load of features that we have currently installed on it, and we will always be looking at ways to constantly improve it.</br>  
 	</br>
+	--------------------------------------------------------------------------------------------------------------------
 	</br>
 	Currently these are the list of the features that you can expect to find on our website:</br>
 	</br>
