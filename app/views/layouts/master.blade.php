@@ -18,7 +18,7 @@
 		<div class="container logo">
 			<!-- UCLOL LOGO GOES HERE -->
 			<a class="brand" href="index.html">
-			<img src="/img/logo1.png" alt="logo"  />
+			<img src="img/logo1.png" alt="logo"  />
 			</a>
 			<!-- END LOGO -->
 			<!-- SOCIAL LINKS, SEE SOURCE FILE FOR ALL OTHER LINKS THAT WERE DELETED -->
@@ -69,9 +69,9 @@
 				<div class="span12">
 					<div class="template-wrapper">
 						<ul id="js-news" class="js-hidden">
-                                <li class="news-item">UCLoL Can have a <a href="#">link</a> in this area!</li>
-                                <li class="news-item">LUCIAN IS A GOD! NUFF SAID</li>
-                                <li class="news-item">BOOGER BOOGER BOOGER BOOGER, <a href="#">BOOGER YEA</a></li>
+                                <li class="news-item">Don't forget to visit our <a href="#">Facebook Page</a> by clicking this link!</li>
+                                <li class="news-item">Tryouts will be held in September, look for updates on the specific date here.</li>
+                                <li class="news-item">Direct any questions and concerns you have with the website to Ryan Finley<a href="#">BOOGER YEA</a></li>
                         </ul>
 						<div class="clear"></div>
 					</div>
