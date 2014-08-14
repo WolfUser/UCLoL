@@ -2,12 +2,12 @@
 
 @section('content')
 	<p>
-	President - Chris Postell</br>
-	Vice President - Juanita Dickhaus </br>
-	Treasurer - Richard Baxter</br>
-	Event Planner - Terrance Webb</br>
-	Media and Website Organizer - Ryan Finley</br>
-	Ranked Teams Coordinator - Jon Deibel</br>
-	Assistance Social Event Planner - Jon Wood</br>
+	<b>President -</b> Chris Postell</br>
+	<b>Vice President -</b> Juanita Dickhaus </br>
+	<b>Treasurer -</b> Richard Baxter</br>
+	<b>Event Planner -</b> Terrance Webb</br>
+	<b>Media and Website Organizer -</b> Ryan Finley</br>
+	<b>Ranked Teams Coordinator -</b> Jon Deibel</br>
+	<b>Assistance Social Event Planner -</b> Jon Wood</br>
 	</p>
 @stop
