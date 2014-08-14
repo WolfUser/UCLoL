@@ -17,7 +17,7 @@
 		<div id="main_wrapper">
 		<div class="container logo">
 			<!-- UCLOL LOGO GOES HERE -->
-			<a class="brand" href="index.html">
+			<a class="brand">
 			<img src="img/logo2.png" alt="logo"  />
 			</a>
 			<!-- END LOGO -->
