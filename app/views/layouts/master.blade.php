@@ -71,7 +71,7 @@
 						<ul id="js-news" class="js-hidden">
                                 <li class="news-item">Don't forget to visit our <a href="#">Facebook Page</a> by clicking this link!</li>
                                 <li class="news-item">Tryouts will be held in September, look for updates on the specific date here.</li>
-                                <li class="news-item">Direct any questions and concerns you have with the website to Ryan Finley<a href="#">BOOGER YEA</a></li>
+                                <li class="news-item">Direct any questions and concerns you have with the website to Ryan Finley</li>
                         </ul>
 						<div class="clear"></div>
 					</div>
