@@ -5,7 +5,7 @@
 	We were founded in the Spring of 2013 and are part of Riot Games’ Official Collegiate Program. 
 	Our purpose is to grow a sense of community centered around League of Legends as well as to organize 
 	events that cater to both the casual and competitive player. </p>
-	<center><img border="0" src="img/LargeLogo.png" alt="UCLoL Logo" width="630" height="648"></center>
+	<!-- <center><img border="0" src="img/LargeLogo.png" alt="UCLoL Logo" width="630" height="648"></center> -->
 
 <div id="myModalL" class="modal hide fade" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
 			<div class="modal-header">
