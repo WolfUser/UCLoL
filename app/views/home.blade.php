@@ -2,55 +2,6 @@
 
 @section('content')
 <div class="container">
-	<p>This is the website of the Official League of Legends Club at the University of Cincinnati.</br>
-	We were founded in the Spring of 2013 and are part of Riot Games’ Official Collegiate Program. 
-	Our purpose is to grow a sense of community centered around League of Legends as well as to organize 
-	events that cater to both the casual and competitive player. </p>
-	<!-- <center><img border="0" src="img/LargeLogo.png" alt="UCLoL Logo" width="630" height="648"></center> -->
-
-<div id="myModalL" class="modal hide fade" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
-			<div class="modal-header">
-				<button type="button" class="close" data-dismiss="modal" aria-hidden="true">×</button>
-				<h3>Login</h3>
-			</div>
-			<div class="modal-body">
-				<div id="LoginWithAjax" class="default">
-					<span id="LoginWithAjax_Status"></span>
-					<form name="LoginWithAjax_Form" id="LoginWithAjax_Form" action="http://skywarriorthemes.com/gameaddict/wp-login.php?callback=?&amp;template=" method="post">
-						<table cellpadding="0" cellspacing="0" width="100%">
-							<tbody>
-								<tr id="LoginWithAjax_Username">
-									<td class="username_input">
-										<input name="log" placeholder="Username" id="lwa_user_login" class="input" value="" type="text">
-									</td>
-								</tr>
-								<tr id="LoginWithAjax_Password">
-									<td class="password_input">
-										<input placeholder="Password" name="pwd" id="lwa_user_pass" class="input" value="" type="password">
-									</td>
-								</tr>
-								<tr>
-									<td colspan="2"></td>
-								</tr>
-								<tr id="LoginWithAjax_Submit">
-									<td id="LoginWithAjax_SubmitButton">
-										<input name="rememberme" id="lwa_rememberme" value="forever" type="checkbox"> <label>Remember Me</label>
-										<a href="#" title="Password Lost and Found">Lost your password?</a>
-										<br><br>
-										<input class="button-small"value="Log In" type="submit">
-										<a class="reg-btn button-small" href="#">Register</a>
-										<input name="redirect_to" value="#" type="hidden">
-										<input name="testcookie" value="1" type="hidden">
-										<input name="lwa_profile_link" value="" type="hidden">
-									</td>
-								</tr>
-							</tbody>
-						</table>
-					</form>
-				</div>
-			</div>
-		</div>
-
 		<!-- Slider -->
 		<div id="sliderhome" class="container">
 			<div id="layerslider" class="ls-wp-container ls-container ls-fullwidth" style="height: 300px; margin: 0px auto; width:100%;">
@@ -91,20 +42,22 @@
 		</div>
 		<!-- End Slider -->
 
-		<div class=" container  normal-page sliderhome">
+		<div class="container sliderhome" style"margin-top:15px;">
 	    <div class="row">
 	        <div class="span12">
 	        	<div>
 					<div class="template-wrapper">
 						<div class="block span6 first">
 							<div class="title-wrapper">
-								<h3 class="widget-title">About game addict</h3>
+								<h3 class="widget-title">About UCLoL</h3>
 								<div class="clear"></div>
 							</div>
 							<div class="wcontainer">
-								<p><iframe src="//player.vimeo.com/video/80209061" frameborder="0" height="281" width="100%"></iframe></p>
-								<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras quis diam nec risus ultrices iaculis. Pellentesque non vulputate leo, eu dictum arcu. Donec interdum vulputate vulputate. Sed sodales elementum ipsum ut sagittis. Integer posuere lorem mattis, luctus nisi at, tristique quam.</p>
-								<p>Integer aliquet tellus non nisi lacinia pretium. Phasellus a nulla ac metus tincidunt vulputate. Nullam quis diam at urna blandit dictum sed a lectus. Nunc ut tincidunt velit. Vivamus eleifend purus sit amet elit lacinia, ut venenatis quam rutrum. Aliquam et adipiscing felis. Aenean consequat scelerisque lectus, eget pellentesque urna sodales nec. In urna orci, faucibus vitae enim eget, ornare commodo nisi. Etiam tempor facilisis luctus. Quisque eleifend ante et lobortis aliquam. Nulla facilisi. Morbi volutpat, eros vitae faucibus ornare, neque mi imperdiet quam, viverra convallis turpis massa dapibus sapien. Vestibulum eu odio ultricies, facilisis odio vitae, consectetur enim. Aliquam facilisis ultricies lacus, id ultricies elit. Curabitur et sollicitudin metus. Cras adipiscing justo tristique posuere ornare. Aenean sit amet feugiat odio, a ultrices nunc. Donec diam nisi, vulputate id enim et, rutrum sagittis mi. Sed vitae justo ac eros convallis convallis at sit amet neque. Nam eu purus vehicula, dapibus quam quis, molestie libero. Nulla id tincidunt arcu.</p>
+								<p><img src="/img/largelogo.png" height="281"></p>
+								This is the website of the Official League of Legends Club at the University of Cincinnati.</br>
+								We were founded in the Spring of 2013 and are part of Riot Games’ Official Collegiate Program. 
+								Our purpose is to grow a sense of community centered around League of Legends as well as to organize 
+								events that cater to both the casual and competitive player. 							
 							</div>
 						</div>
 						<div class="block span6">
