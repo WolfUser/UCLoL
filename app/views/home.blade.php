@@ -42,7 +42,7 @@
 		</div>
 		<!-- End Slider -->
 
-		<div class="container sliderhome" style"margin-top:15px;">
+		<div class="container sliderhome" style="margin-top:30px;">
 	    <div class="row">
 	        <div class="span12">
 	        	<div>
@@ -53,7 +53,7 @@
 								<div class="clear"></div>
 							</div>
 							<div class="wcontainer">
-								<p><img src="/img/largelogo.png" height="281"></p>
+								<p><img src="/img/LargeLogo.png" style="height:281px;margin:0 auto;"></p>
 								This is the website of the Official League of Legends Club at the University of Cincinnati.</br>
 								We were founded in the Spring of 2013 and are part of Riot Games’ Official Collegiate Program. 
 								Our purpose is to grow a sense of community centered around League of Legends as well as to organize 
@@ -62,7 +62,7 @@
 						</div>
 						<div class="block span6">
 							<div class="title-wrapper">
-								<h3 class="widget-title">Latest updates</h3>
+								<h3 class="widget-title">Latest Announcements</h3>
 								<div class="clear"></div>
 							</div>
 	            			<div class="wcontainer">
@@ -70,14 +70,14 @@
 									<li class="newsbv-item-first">
 										<div class="newsb-thumbnail">
 									 		<a rel="bookmark" href="#">
-												<img src="./img/defaults/305x305.jpg">
+												<img src="./img/defaults/75x75.jpg">
 												<span class="overlay-link"></span>
 												<div class="clear"></div>
 											</a>
 										</div>
-										<h4 class="newsb-title"><a rel="bookmark" href="#">Fermentum sit amet congue sit amet</a></h4>
-										<p class="post-meta"><i class="icon-calendar"></i> August 31, 2013 - <i class="icon-comment"></i> No comments</p>
-										<p>Sed commodo, libero ut dignissim imperdiet, lorem nibh bibendum nisi, vel blandit est eros sit amet elit. Mauris nec arcu vel tellus aliquam congue. Mauris fermentum sem ut tortor ultricies dictum. Praesent at porttitor mauris. Curabitur pulvinar suscipit tortor venenatis […]</p>
+										<h4 class="newsb-title"><a rel="bookmark" href="#">First meeting!</a></h4>
+										<p class="post-meta"><i class="icon-calendar"></i> August 31, 2014 </p>
+										<p>We are holding the first meeting on September 4th 2014 in Swift 800!</p>
 										<div class="clear"></div>
 									</li>
 
@@ -89,9 +89,9 @@
 												<div class="clear"></div>
 											</a>
 										</div>
-										<h4 class="newsb-title"><a rel="bookmark" href="#">Etiam massa mauris fermentum a congue id</a></h4>
+										<h4 class="newsb-title"><a rel="bookmark" href="#">Competitive team tryouts start soon!</a></h4>
 										<p class="post-meta">
-										<i class="icon-calendar"></i> June 17, 2013 - <i class="icon-comment"></i> 3 Comments</p>
+										<i class="icon-calendar"></i> June 17, 2013 </p>
 										<div class="clear"></div>
 									</li>
 
