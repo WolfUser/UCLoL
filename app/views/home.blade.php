@@ -53,7 +53,7 @@
 								<div class="clear"></div>
 							</div>
 							<div class="wcontainer">
-								<p><img src="/img/LargeLogo.png" style="height:281px;margin:0 auto;"></p>
+								<p style="text-align:center;"><img src="/img/LargeLogo.png" style="height:281px;margin:0 auto;"></p>
 								This is the website of the Official League of Legends Club at the University of Cincinnati.</br>
 								We were founded in the Spring of 2013 and are part of Riot Games’ Official Collegiate Program. 
 								Our purpose is to grow a sense of community centered around League of Legends as well as to organize 
@@ -77,7 +77,7 @@
 										</div>
 										<h4 class="newsb-title"><a rel="bookmark" href="#">First meeting!</a></h4>
 										<p class="post-meta"><i class="icon-calendar"></i> August 31, 2014 </p>
-										<p>We are holding the first meeting on September 4th 2014 in Swift 800!</p>
+										<p>We are holding the first meeting on September 4th, in Swift 800! We will be talking about what the club is, going over plans for the year, and more info on the competitive team.</p>
 										<div class="clear"></div>
 									</li>
 
@@ -103,7 +103,7 @@
 												<div class="clear"></div>
 											</a>
 										</div>
-										<h4 class="newsb-title"><a rel="bookmark" href="#">Curabitur lorem mauris dictum et tempus</a></h4>
+										<h4 class="newsb-title"><a rel="bookmark" href="#">Features of the Website</a></h4>
 										<p class="post-meta"><i class="icon-calendar"></i> June 17, 2013 - <i class="icon-comment"></i> 2 Comments</p>
 										<div class="clear"></div>
 									</li>
@@ -116,7 +116,7 @@
 												<div class="clear"></div>
 											</a>
 										</div>
-										<h4 class="newsb-title"><a rel="bookmark" href="#">Morbi vel ipsum vel augue mattis ultricies non et mauris</a></h4>
+										<h4 class="newsb-title"><a rel="bookmark" href="#">Our Community</a></h4>
 										<p class="post-meta"><i class="icon-calendar"></i> June 17, 2013 - <i class="icon-comment"></i> 2 Comments</p>
 										<div class="clear"></div>
 									</li>
@@ -129,7 +129,7 @@
 												<div class="clear"></div>
 											</a>
 										</div>
-										<h4 class="newsb-title"><a rel="bookmark" href="#">Duis lacinia nisi vel lorem scelerisque interdum</a></h4>
+										<h4 class="newsb-title"><a rel="bookmark" href="#">Calendar</a></h4>
 										<p class="post-meta"><i class="icon-calendar"></i> May 4, 2013 - <i class="icon-comment"></i> 2 Comments</p>
 										<div class="clear"></div>
 									</li>
@@ -142,7 +142,7 @@
 												<div class="clear"></div>
 											</a>
 										</div>
-										<h4 class="newsb-title"><a rel="bookmark" href="#">Eget ultrices mauris rhoncus non</a></h4>
+										<h4 class="newsb-title"><a rel="bookmark" href="#">We have a new website!</a></h4>
 										<p class="post-meta"><i class="icon-calendar"></i> May 4, 2013 - <i class="icon-comment"></i> 5 Comments</p>
 										<div class="clear"></div>
 									</li>
