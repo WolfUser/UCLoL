@@ -5,7 +5,10 @@ class ViewController extends BaseController {
 	protected $layout = 'layouts.master';
 
 	public function home() {
-		$this->layout->content = View::make('home');
+
+		$news = News::all();
+
+		$this->layout->content = View::make('home')->with("news", $news);
 	}
 
 	public function announcements() {
