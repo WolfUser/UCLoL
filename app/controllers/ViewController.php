@@ -6,7 +6,7 @@ class ViewController extends BaseController {
 
 	public function home() {
 
-		$news = News::all();
+		$news = News::orderBy('id', "DESC")->get();
 
 		$this->layout->content = View::make('home')->with("news", $news);
 	}
