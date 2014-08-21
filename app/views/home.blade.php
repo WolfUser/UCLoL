@@ -10,7 +10,7 @@
 								@foreach($news as $post)
 								<div class="blog-post">
 									<div class="blog-image">
-										<a href=""><img src="{{{ $post->img_url }}}"></a>
+										<a><img src="{{{ $post->img_url }}}"></a>
 										<div class="blog-date">
 											<span class="date">{{{ $post->created_at->format('M') }}} <br> {{ $post->created_at->format('d') }}</span>
 											<div class="plove"></div>
@@ -19,7 +19,7 @@
 									</div>
 									<!-- blog-image -->
 									<div class="blog-content">
-										<h2><a href=""> {{{ $post->title }}} </a></h2>
+										<h2><a > {{{ $post->title }}} </a></h2>
 										<p>{{{ $post->text }}}</p>
 									</div>
 									<!-- blog-content -->
@@ -28,7 +28,7 @@
 											<span class="icon-user"></span> <a data-original-title="View" all="" posts="" by="" admin="" data-toggle="tooltip" href="#">{{{ $post->author }}}</a> &nbsp;
 										</div>
 										<!-- post-pinfo -->
-										<a href="" class="button-small">Read more</a>
+										<a  class="button-small">Read more</a>
 										<div class="clear"></div>
 									</div>
 									<!-- blog-info -->
