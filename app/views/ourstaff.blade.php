@@ -8,6 +8,6 @@
 	<b>Event Planner -</b> Terrance Webb</br>
 	<b>Media and Website Organizer -</b> Ryan Finley</br>
 	<b>Ranked Teams Coordinator -</b> Jon Deibel</br>
-	<b>Assistance Social Event Planner -</b> Jon Wood</br>
+	<b>Assistant Social Event Planner -</b> Jon Wood</br>
 	</p>
 @stop
