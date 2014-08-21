@@ -28,7 +28,7 @@
 											<span class="icon-user"></span> <a data-original-title="View" all="" posts="" by="" admin="" data-toggle="tooltip" href="#">{{{ $post->author }}}</a> &nbsp;
 										</div>
 										<!-- post-pinfo -->
-										<a href="blog-post.html" class="button-small">Read more</a>
+										<a href="#" class="button-small">Read more</a>
 										<div class="clear"></div>
 									</div>
 									<!-- blog-info -->
