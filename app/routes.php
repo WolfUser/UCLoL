@@ -15,6 +15,8 @@ Route::get('/', "ViewController@home");
 // This is another comment
 Route::get('/announcements', 'ViewController@announcements');
 
+Route::get('/ranked', 'ViewController@ranked');
+
 Route::get('/calendar', 'ViewController@calendar');
 
 Route::get('/community/ranked-team', 'ViewController@rankedTeam');
@@ -29,4 +31,6 @@ Route::get('/ourstaff', 'ViewController@ourStaff');
 
 Route::get('/donations', 'ViewController@donations');
 
-// comment weeee
+// REST controller
+
+Route::controller('rest', 'RestController');
