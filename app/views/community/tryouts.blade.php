@@ -3,7 +3,7 @@
 @section('content')
 	<p>
 	<b>August 22nd:</b> People can start submitting their soloq info. There is a minimum rank requirement of Gold V to be able to try out.
-	To try out, go <a href="ranked-team.html">Here</a> and fill out all the fields provided. </br>
+	To try out, go <a href="/ranked">Here</a> and fill out all the fields provided. </br>
 
 	<b>September 1st - 5th:</b> Soloq reviewing officially starts and details will be logged <a href="http://goo.gl/cjltMB">Here</a></br>
 
