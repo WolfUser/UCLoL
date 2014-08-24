@@ -30,7 +30,7 @@
 	            <li class="input-prepend">
 	            	<span class="add-on"><i class="icon-trophy"></i></span>
 	            	<select name="rank" style="padding:2%; width:92%;height:100%;" class="required">
-						<option value="gold">Gold</option>
+						<option value="gold" selected="selected">Gold</option>
 						<option value="platinum">Platinum</option>
 						<option value="diamond">Diamond</option>
 						<option value="challenger">Challenger</option>
@@ -43,7 +43,7 @@
 				 <li class="input-prepend">
 	            	<span class="add-on"><i class="icon-trophy"></i></span>
 	            	<select name="position" style="padding:2%; width:92%;height:100%;" class="required">
-						<option value="gold">Top</option>
+						<option value="gold" selected="selected">Top</option>
 						<option value="platinum">Mid</option>
 						<option value="diamond">Jungle</option>
 						<option value="challenger">AD Carry</option>
