@@ -13,6 +13,7 @@
 	        <ul class="contactform controls">
 	        	<li>
 	        		<p style="text-align:center;font-weight:bold;font-size:13px;"> Here you can submit your information to be considered for the UCLoL official competitive team. You must be at least Gold V to apply. </p>
+	        		<p style="text-align:center;font-weight:bold;font-size:13px;"> In order for you to be properly evaluated you must go on OP.gg during/at the start of your game and hit "Open Current Game Info" then hit record. This allows anyone to view the recorded game. If you do not do this, you most likely will not be eligible to pass the first round. </p>
 	        	</li>
 	            <li class="input-prepend">
 	                <span class="add-on"><i class="icon-user"></i></span>
