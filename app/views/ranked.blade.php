@@ -43,11 +43,11 @@
 				 <li class="input-prepend">
 	            	<span class="add-on"><i class="icon-trophy"></i></span>
 	            	<select name="position" style="padding:2%; width:92%;height:100%;" class="required">
-						<option value="gold" selected>Top</option>
-						<option value="platinum">Mid</option>
-						<option value="diamond">Jungle</option>
-						<option value="challenger">AD Carry</option>
-						<option value="challenger">Support</option>
+						<option value="top" selected>Top</option>
+						<option value="mid">Mid</option>
+						<option value="jungle">Jungle</option>
+						<option value="adcarry">AD Carry</option>
+						<option value="support">Support</option>
 					</select>
 				</li>
 	            <li>
