@@ -1,0 +1,8 @@
+@extends('layouts.master')
+
+@section('tryouts')
+
+// <p>At UCLoL we have a Teamspeak server run by our staff that you all are free to use. &nbsp;<br><br>The Server info is:&nbsp;<br>uclol.teamspeak3.com</p><p><span>To join the server simply enter that information upon loading TeamSpeak, and press&nbsp;<em>Connect</em>&nbsp;. &nbsp;Or, you can click the&nbsp;<em>Join Server</em>&nbsp; link below and we will automatically connect you to the server!<br>Don't have TeamSpeak? &nbsp;Download it for FREE&nbsp;<a href="http://www.teamspeak.com/?page=downloads">&nbsp;</a><a target="_blank" href="http://www.teamspeak.com/?page=downloads">here</a>!</span></p></div></div></div></div><div class="row sqs-row"><div class="col sqs-col-6 span-6"><div class="sqs-block code-block sqs-block-code" data-block-type="23" id="block-53477d5a4c54567e21f4"><div class="sqs-block-content"><span id="its222537"><a href="http://www.instantteamspeak.com/">teamspeak</a> Hosting by InstantTeamSpeak.com</span><script type="text/javascript" src="https://view.light-speed.com/teamspeak3.php?IP=uclol.teamspeak3.com&PORT=6202&QUERY=10013&UID=222537&display=block&font=17px&background=%23b3afb3&server_info_background=%23000000&server_info_text=%23fa0303&server_name_background=transparent&server_name_text=%23000000&info_background=transparent&channel_background=transparent&channel_text=%23000000&username_background=%23000000&username_text=%23fafafa"></script></div></div></div><div class="col sqs-col-6 span-6"><div class="sqs-block code-block sqs-block-code" data-block-type="23" id="block-69f248aec1804fa14c0a"><div class="sqs-block-content"><a href="ts3server://uclol.teamspeak3.com/?port=6202&nickname=Web 
+Guest">Join Server for First Time</a>
+
+@stop
