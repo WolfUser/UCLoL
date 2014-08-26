@@ -40,7 +40,9 @@ class ViewController extends BaseController {
 	}
 
 	public function ourStaff() {
-		$this->layout->content = View::make('ourstaff');
+		$staff = Staff::orderBy('id', "ASC")->get();
+
+		$this->layout->content = View::make('ourstaff')->with("members", $staff);
 	}
 
 	public function donations() {
