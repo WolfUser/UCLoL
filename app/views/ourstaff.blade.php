@@ -16,7 +16,7 @@
 	                      <div class="pdisplay">
                           	<p style="text-align:center;color:#fff;">{{{ $member->description }}}</p>
                           </div>
-	                   	  <img style="height:480px;width:480px;" src="{{{ $member->image }}}">
+	                   	  <img style="height:265px;width:480px;" src="{{{ $member->image }}}">
 	                    </div>
 	                    <div class="ptitle">
 	                      <h4>
