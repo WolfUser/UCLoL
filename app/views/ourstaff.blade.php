@@ -14,7 +14,7 @@
 	                    <div class="pimage">
 	                      <div class="pbg"></div>
 	                      <div class="pdisplay">
-                          	<p style="text-align:center;">{{{ $member->description }}}</p>
+                          	<p style="text-align:center;color:#fff;">{{{ $member->description }}}</p>
                           </div>
 	                   	  <img src="{{{ $member->image }}}">
 	                    </div>
