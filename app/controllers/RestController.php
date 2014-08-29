@@ -17,5 +17,9 @@ class RestController extends BaseController {
 		Session::flash('success', 'Successfully submitted your application for the ranked team!');
 		return Redirect::to('/');
 	}
+	
+	public function getRankedsub() {
+		return var_dump(Registration::sortBy("rank", "DESC")->get());
+	}
 
 }
