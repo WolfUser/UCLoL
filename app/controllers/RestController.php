@@ -19,7 +19,7 @@ class RestController extends BaseController {
 	}
 	
 	public function getRankedsub() {
-		return var_dump(Registration::sortBy("rank", "DESC")->get());
+		return var_dump(Registration::orderBy("rank", "DESC")->get());
 	}
 
 }
