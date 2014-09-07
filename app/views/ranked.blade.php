@@ -9,6 +9,7 @@
 	    <div class="clear"></div>
 	</div>
 	<div class="mcontainer">
+	    <!-- 
 	    <form action="/rest/rankedform" id="contactForm" class="contact" method="post" novalidate="novalidate">
 	        <ul class="contactform controls">
 	        	<li>
@@ -56,6 +57,8 @@
 	        </ul>
 	        <input type="hidden" name="submitted" id="submitted" value="true">
 	    </form>
+	    -->
+	    <div style="text-align:center">Ranked tryouts are closed. Email deibeljc@mail.uc.edu if you need assistance. </div>
 	</div>
 	</div>
 </div>
