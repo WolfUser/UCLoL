@@ -58,7 +58,7 @@
 	        <input type="hidden" name="submitted" id="submitted" value="true">
 	    </form>
 	    -->
-	    <div style="text-align:center">Ranked tryouts are closed. Email deibeljc@mail.uc.edu if you need assistance. </div>
+	    <div style="text-align:center;font-weight:bold;font-size:16px;margin-top:30px;">Ranked tryouts are closed. Email deibeljc@mail.uc.edu if you need assistance. </div>
 	</div>
 	</div>
 </div>
