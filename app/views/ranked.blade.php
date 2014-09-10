@@ -58,7 +58,55 @@
 	        <input type="hidden" name="submitted" id="submitted" value="true">
 	    </form>
 	    -->
-	    <div style="text-align:center;font-weight:bold;font-size:16px;margin-top:30px;">Ranked tryouts are closed. Email deibeljc@mail.uc.edu if you need assistance. </div>
+	    <div style="text-align:center;font-weight:bold;font-size:12px;margin-top:30px;">
+	    	I want to preface this by thanking everyone who applied! It was extremely hard to narrow down the list as everyone who applied showed a lot of skill! 
+	    	<br>
+	    	For Top:
+	    	<br>
+	    	<ul>
+	    		<li>Rafael Heck</li>
+	    		<li>Bryan Hoskins</li>
+	    		<li>Clayton Hoover</li>
+	    		<li>Cody Ernst</li>
+	    		<li>Matthew Postell</li>
+	    	</ul>
+	    	<br>
+	    	For Support:
+	    	<ul>
+	    		<li>Jon Macbeth</li>
+	    		<li>Logan Herbers</li>
+	    		<li>Cody Saliba</li>
+	    		<li>Kainon Loebker</li>
+	    		<li>Thomas Sohn</li>
+	    	</ul>
+	    	<br>
+	    	For Mid:
+	    	<ul>
+	    		<li>Nicholas Gramke</li>
+	    		<li>Jeremy Ballard</li>
+	    		<li>Nghia Le</li>
+	    		<li>Grant Courts</li>
+	    		<li>Christopher Broderick</li>
+	    	</ul>
+	    	<br>
+	    	For Jungle:
+	    	<ul>
+	    		<li>Alex Glahn</li>
+	    		<li>Andrew Wait</li>
+	    		<li>Jake Courts</li>
+	    		<li>Ryan Meyer</li>
+	    		<li>Joseph Lazarte</li>
+	    	</ul>
+	    	<br>
+	    	For ADC:
+	    	<ul>
+	    		<li>Ryan Finley</li>
+	    		<li>Daniel Prather</li>
+	    		<li>Matthew Hein</li>
+	    		<li>Dean Morris</li>
+	    		<li>Shaochu Liu</li>
+	    	</ul>
+	    </div>
 	</div>
 	</div>
 </div>
