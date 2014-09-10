@@ -76,7 +76,7 @@
 	    	For Support:
 	    	<ul>
 	    		<li>Jon Macbeth</li>
-	    		<li>Tomosumi</li>
+	    		<li>TomosumiSato</li>
 	    		<li>Cody Saliba</li>
 	    		<li>Kainon Loebker</li>
 	    		<li>Thomas Sohn</li>
