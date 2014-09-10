@@ -60,6 +60,8 @@
 	    -->
 	    <div style="text-align:center;font-weight:bold;font-size:12px;margin-top:30px;">
 	    	I want to preface this by thanking everyone who applied! It was extremely hard to narrow down the list as everyone who applied showed a lot of skill! 
+	    </div>
+	    <div style="font-size:12px;margin-top:15px;">
 	    	<br>
 	    	For Top:
 	    	<br>
