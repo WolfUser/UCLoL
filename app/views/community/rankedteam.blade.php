@@ -12,28 +12,28 @@
 	    
 	    <div id="block-2" class="block block-team_member_block span4 cf"><div class="member"><div class="member-social"></div>
 			
-                <img src="http://skywarriorthemes.com/gameaddict/wp-content/uploads/2014/01/team1.jpg" alt="Clan Members">
+                <img src="http://24.media.tumblr.com/d8dc5813eafce7847f234aac9d8a2d5b/tumblr_mj9gjxj3RA1rczihjo1_500.jpg" alt="Clan Members">
                 <h3 class="widget-title">Bryan Hoskins (Bryanman3320)</h3>
                 <div class="content"><p>The dedicated top lane for UC Team Black!</p>
 </div>
 				<div class="blacksq"></div>
              </div></div><div id="block-3" class="block block-team_member_block span4  cf"><div class="member"><div class="member-social"></div>
 			
-                <img src="http://skywarriorthemes.com/gameaddict/wp-content/uploads/2014/01/team3.jpg" alt="Clan Members">
+                <img src="http://31.media.tumblr.com/tumblr_mfad4vbEve1ql75w4o1_1355933785_cover.jpg" alt="Clan Members">
                 <h3 class="widget-title">Trevor Rusch (therusch)</h3>
                 <div class="content"><p>The dedicated jungler for UC Team Black!</p>
 </div>
 				<div class="blacksq"></div>
              </div></div><div id="block-4" class="block block-team_member_block span4 cf"><div class="member"><div class="member-social"></div>
 			
-                <img src="http://skywarriorthemes.com/gameaddict/wp-content/uploads/2014/01/team21.jpg" alt="Clan Members">
+                <img src="https://i1.sndcdn.com/artworks-000048903744-zb6wvz-t500x500.jpg?e76cf77" alt="Clan Members">
                 <h3 class="widget-title">Nicholas Gramke (IncendiarySpade)</h3>
                 <div class="content"><p>The returning mid laner for UC Team Black!</p>
 </div>
 				<div class="blacksq"></div>
              </div></div><div id="block-5" class="block block-team_member_block span4  cf"><div class="member"><div class="member-social"></div>
 			
-                <img src="http://skywarriorthemes.com/gameaddict/wp-content/uploads/2014/01/team4.jpg" alt="Clan Members">
+                <img src="http://31.media.tumblr.com/tumblr_mry3zmarwy1rle77go1_1377196979_cover.jpg" alt="Clan Members">
                 <h3 class="widget-title">ShaoChu Liu (iAce)</h3>
                 <div class="content"><p>The dedicated ADC for UC Team Black!</p>
 </div>
