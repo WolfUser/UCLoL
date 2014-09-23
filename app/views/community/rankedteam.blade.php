@@ -7,6 +7,7 @@
 	<div class="title-wrapper">
 	    <h3 class="widget-title">COMPETITIVE TEAM</h3>
 	    <div class="clear"></div>
+	    <div id="template-wrapper-88" class="template-wrapper">
 	    <div id="block-1" class="block block-column_block span8 first cf"><div id="block-2" class="block block-team_member_block span4 first cf"><div class="member"><div class="member-social"><a data-original-title="Facebook" data-toggle="tooltip" href="#" class="icon-facebook-sign"></a><a data-original-title="Twitter" data-toggle="tooltip" href="#" class="icon-twitter-sign"></a> <a data-original-title="Youtube" data-toggle="tooltip" href="#" class="icon-youtube"></a></div>
 			
                 <img src="http://skywarriorthemes.com/gameaddict/wp-content/uploads/2014/01/team1.jpg" alt="Clan Members">
@@ -41,7 +42,7 @@
                 <div class="content"><p>The dedicated support for UC Team Black!</p>
 </div>
 				<div class="blacksq"></div>
-             </div></div></div>
+             </div></div></div></div>
 	
 	</div>
 	</div>
