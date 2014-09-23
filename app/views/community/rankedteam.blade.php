@@ -41,6 +41,14 @@
 			
              </div></div>
              
+             <div id="block-6" class="block block-team_member_block span4 cf"><div class="member"><div class="member-social"></div>
+			
+                <img src="http://skywarriorthemes.com/gameaddict/wp-content/uploads/2014/01/team1.jpg" alt="Clan Members">
+                <h3 class="widget-title">Jon MacBeth (JonMacTubbs)</h3>
+                <div class="content"><p>The dedicated support for UC Team Black!</p>
+</div>
+				<div class="blacksq"></div>
+             </div></div>
              
              </div></div>
 	
