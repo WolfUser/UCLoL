@@ -43,7 +43,6 @@
 							<ul class="nav">
 								<li><a href="/">Home</a></li>
 								<li><a href="/announcements">Announcements</a></li>
-								<li><a href="/ranked">Solo-q Evaluation Results</a></li>
                                 <li class="dropdown">
 									<a href="#">Our Community</a>
 									<ul class="sub-menu dropdown-menu">
