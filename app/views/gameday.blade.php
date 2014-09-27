@@ -14,24 +14,66 @@
 	(you guessed it) MTG! UC Hearthstone will be hosting UC's first in-person Hearthstone tournament, and Anime UC 
 	will be showing anime, hosting some console games, and providing awesome Japanese food, candy, and drinks!
 	</br>
+	<b> ** General Schedule for non-game events** </b>
+	12:00 PM - Doors Open
+	3:00 PM - Pizza arrives 
+	6:00 PM - Raffle Giveaways and cookies
+	8:00 PM - Clean up begins
+	</br>
 	For more information on a certain club's events, see below. </br></br>
-	--------------------------------------------------------------------------- </br>
+	------------------------------------------------------------------------------------------------------------------------------------------------------------ </br>
 	<b> League of Legends Information </b></br>
 	<b>** Tournament Registration (OPEN or sign up @ event) ** </b> </br>
-	LoL (5v5): <a href=http://battlefy.com/uclol/uclol-5v5-fall-tournament/5407e3ca3878a9d1089ffab1/info></a> </br>
+	LoL (5v5): <a href=http://battlefy.com/uclol/uclol-5v5-fall-tournament/5407e3ca3878a9d1089ffab1/info> Sing up here!</a> </br>
 	LoL (1v1): Sign up @ event </br>
 	</br>
-	** Ruleset for League ** </br>
-	<a href=https://docs.google.com/document/d/1qPF7Ym1tdgYSnzvmY-90wxhObRv_a_wjoNMxhFWA94s/edit?usp=sharing>SIGN UP HERE</a> (feel free to contact Juanita Dickhaus) </br>
+	<b>** Ruleset for League **</b> </br>
+	<a href=https://docs.google.com/document/d/1qPF7Ym1tdgYSnzvmY-90wxhObRv_a_wjoNMxhFWA94s/edit?usp=sharing>Link to Ruleset</a> 
+	(feel free to contact Juanita Dickhaus) </br>
 	</br>
-	** PRIZING ** </br>
-	LoL (5v5):  </br>
+	<b>** PRIZING **</b> </br>
+	<b>LoL (5v5):</b>  </br>
 	1st place: 3200 RP and Triumphant Ryze skin for every player (more prizes TBA) </br>
 	2nd place: 2400 RP per player </br>
 	3rd place: 1600 RP per player </br>
 	4th place: 800 RP per player </br>
-	LoL (1v1): A selection from our SWAG BAG (and one more prize TBA) </br>
+	<b>LoL (1v1): </b> </br> 
+	A selection from our SWAG BAG (and one more prize TBA) </br></br>
 
+	<b>** Schedule ** </b> </br>
+	12:30 PM - First 1v1 tourney begins </br>
+	1:00 PM - 5v5 registration closes and matches begin </br>
+	3:00 PM - 2nd 1v1 tourney begins </br>
+	5:00 PM - Finals for 5v5 begin (tenatively) </br>
+	6:00 PM - Inhouses, chase the teemo, etc. </br>
+	------------------------------------------------------------------------------------------------------------------------------------------------------------ </br>
+	<b> Magic the Gathering Information </b></br>
+	</br>
+	Make sure to bring your own deck if you wish to play. </br>
+	This will likely be a challenge based area where people just play eachother for fun and games can be watched.</br></br>
+	------------------------------------------------------------------------------------------------------------------------------------------------------------ </br>
+	<b> Anime Information </b></br>
+	</br>
+	The Anime club will be having Anime shows on. </br></br>
+	------------------------------------------------------------------------------------------------------------------------------------------------------------ </br>
+	<b> Hearthstone Information </b></br>
+	<b>** Tournament Registration is sign up at event) ** </b> </br>
+	</br>
+	<b>** Ruleset for League **</b> </br>
+	Contact Kase or Brad or see the UC Hearthstone <a href= https://www.facebook.com/groups/255773791258321/>Facebook Page</a>. </br>
+	</br>
+	<b>** PRIZING **</b> </br>
+	TO BE ANNOUNCED </br>
+
+	<b>** Schedule ** </b> </br>
+	12:00 PM - Registration opens for 1v1 round robin, free play </br>	 
+	1:00 PM - Registration closes and 1v1 starts </br>		
+	4:00 PM - Final 4 double elim finals </br>		 
+	6:00 PM - Auto Deck tournament (no prizes)	</br>	
+	------------------------------------------------------------------------------------------------------------------------------------------------------------ </br>
+	<b> Consol Gaming Information </b></br>
+	</br> test </br>
 </p>
+
 
 @stop
