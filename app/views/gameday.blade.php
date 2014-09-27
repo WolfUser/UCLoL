@@ -2,8 +2,8 @@
 
 @section('content')
 <p>
-	Game day will have 5 different clubs hosting events throughout the day. 
-	</br> They are: 
+	Game day will have 5 different clubs hosting events throughout the day. </br>
+	They are: </br>
 	- League of Legends </br>
 	- Magic the Gathering </br>
 	- Anime </br>
@@ -14,16 +14,15 @@
 	(you guessed it) MTG! UC Hearthstone will be hosting UC's first in-person Hearthstone tournament, and Anime UC 
 	will be showing anime, hosting some console games, and providing awesome Japanese food, candy, and drinks!
 	</br>
-	For more information on a certain club's events, see below. </br>
+	For more information on a certain club's events, see below. </br></br>
 	--------------------------------------------------------------------------- </br>
-	</br>
 	<b> League of Legends Information </b></br>
-	<u>** Tournament Registration (OPEN or sign up @ event) ** </u> </br>
-	LoL (5v5): http://battlefy.com/uclol/uclol-5v5-fall-tournament/5407e3ca3878a9d1089ffab1/info </br>
+	<b>** Tournament Registration (OPEN or sign up @ event) ** </b> </br>
+	LoL (5v5): <a href=http://battlefy.com/uclol/uclol-5v5-fall-tournament/5407e3ca3878a9d1089ffab1/info></a> </br>
 	LoL (1v1): Sign up @ event </br>
 	</br>
 	** Ruleset for League ** </br>
-	https://docs.google.com/document/d/1qPF7Ym1tdgYSnzvmY-90wxhObRv_a_wjoNMxhFWA94s/edit?usp=sharing (feel free to contact Juanita Dickhaus) </br>
+	<a href=https://docs.google.com/document/d/1qPF7Ym1tdgYSnzvmY-90wxhObRv_a_wjoNMxhFWA94s/edit?usp=sharing>SIGN UP HERE</a> (feel free to contact Juanita Dickhaus) </br>
 	</br>
 	** PRIZING ** </br>
 	LoL (5v5):  </br>
