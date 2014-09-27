@@ -14,11 +14,11 @@
 	(you guessed it) MTG! UC Hearthstone will be hosting UC's first in-person Hearthstone tournament, and Anime UC 
 	will be showing anime, hosting some console games, and providing awesome Japanese food, candy, and drinks!
 	</br>
-	<b> ** General Schedule for non-game events** </b>
-	12:00 PM - Doors Open
-	3:00 PM - Pizza arrives 
-	6:00 PM - Raffle Giveaways and cookies
-	8:00 PM - Clean up begins
+	<b> ** General Schedule for non-game events** </b> </br>
+	12:00 PM - Doors Open </br>
+	3:00 PM - Pizza arrives  </br>
+	6:00 PM - Raffle Giveaways and cookies </br>
+	8:00 PM - Clean up begins </br>
 	</br>
 	For more information on a certain club's events, see below. </br></br>
 	------------------------------------------------------------------------------------------------------------------------------------------------------------ </br>
