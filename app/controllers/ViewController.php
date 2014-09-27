@@ -50,6 +50,6 @@ class ViewController extends BaseController {
 	}
 
 	public function gameDay() {
-		$this->layout->content = View::make('gameDay');
+		$this->layout->content = View::make('gameday');
 	}
 }
