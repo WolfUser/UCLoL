@@ -45,7 +45,7 @@
 	1:00 PM - 5v5 registration closes and matches begin </br>
 	3:00 PM - 2nd 1v1 tourney begins </br>
 	5:00 PM - Finals for 5v5 begin (tenatively) </br>
-	6:00 PM - Inhouses, chase the teemo, etc. </br>
+	6:00 PM - Inhouses, chase the teemo, etc. </br></br>
 	------------------------------------------------------------------------------------------------------------------------------------------------------------ </br>
 	<b> Magic the Gathering Information </b></br>
 	</br>
@@ -63,16 +63,26 @@
 	Contact Kase or Brad or see the UC Hearthstone <a href= https://www.facebook.com/groups/255773791258321/>Facebook Page</a>. </br>
 	</br>
 	<b>** PRIZING **</b> </br>
-	TO BE ANNOUNCED </br>
+	TO BE ANNOUNCED </br></br>
 
 	<b>** Schedule ** </b> </br>
 	12:00 PM - Registration opens for 1v1 round robin, free play </br>	 
 	1:00 PM - Registration closes and 1v1 starts </br>		
 	4:00 PM - Final 4 double elim finals </br>		 
-	6:00 PM - Auto Deck tournament (no prizes)	</br>	
+	6:00 PM - Auto Deck tournament (no prizes)	</br></br>	
 	------------------------------------------------------------------------------------------------------------------------------------------------------------ </br>
 	<b> Consol Gaming Information </b></br>
-	</br> test </br>
+	<b>** Tournament Registration (OPEN or sign up @ event) ** </b> </br>
+	Super Smash Bros Melee / Project M singles / doubles): TBD (contact Juanita with questions/comments) </br>
+	<b>** Ruleset for Console Gaming **</b> </br>
+	Smash Bros: <a href=http://smashboards.com/rulesets/melee/>Link to Ruleset</a> </br>
+	</br> BlazBlue: <a href=https://docs.google.com/document/d/1CYEjCtqqxewnd3sil8UzRNomm9fpcfMZikjMD0TPucA/edit?usp=sharing> Link to Ruleset</a> </br>
+	</br>
+	<b>** PRIZING **</b> </br>
+	Smash BRos: If we do buy-in tournament, then 100% payout </br>
+	1st: 60% of all buy-ins </br>
+	2nd: 30% of all buy-ins </br>
+	3rd 10% of all buy-ins </br>
 </p>
 
 
