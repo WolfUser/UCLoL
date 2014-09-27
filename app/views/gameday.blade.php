@@ -47,30 +47,6 @@
 	5:00 PM - Finals for 5v5 begin (tenatively) </br>
 	6:00 PM - Inhouses, chase the teemo, etc. </br></br>
 	------------------------------------------------------------------------------------------------------------------------------------------------------------ </br>
-	<b> Magic the Gathering Information </b></br>
-	</br>
-	Make sure to bring your own deck if you wish to play. </br>
-	This will likely be a challenge based area where people just play eachother for fun and games can be watched.</br></br>
-	------------------------------------------------------------------------------------------------------------------------------------------------------------ </br>
-	<b> Anime Information </b></br>
-	</br>
-	The Anime club will be having Anime shows on. </br></br>
-	------------------------------------------------------------------------------------------------------------------------------------------------------------ </br>
-	<b> Hearthstone Information </b></br>
-	<b>** Tournament Registration is sign up at event) ** </b> </br>
-	</br>
-	<b>** Ruleset for League **</b> </br>
-	Contact Kase or Brad or see the UC Hearthstone <a href= https://www.facebook.com/groups/255773791258321/>Facebook Page</a>. </br>
-	</br>
-	<b>** PRIZING **</b> </br>
-	TO BE ANNOUNCED </br></br>
-
-	<b>** Schedule ** </b> </br>
-	12:00 PM - Registration opens for 1v1 round robin, free play </br>	 
-	1:00 PM - Registration closes and 1v1 starts </br>		
-	4:00 PM - Final 4 double elim finals </br>		 
-	6:00 PM - Auto Deck tournament (no prizes)	</br></br>	
-	------------------------------------------------------------------------------------------------------------------------------------------------------------ </br>
 	<b> Consol Gaming Information </b></br>
 	<b>** Tournament Registration (OPEN or sign up @ event) ** </b> </br>
 	Super Smash Bros Melee / Project M singles / doubles): TBD (contact Juanita with questions/comments) </br>
@@ -82,7 +58,33 @@
 	Smash BRos: If we do buy-in tournament, then 100% payout </br>
 	1st: 60% of all buy-ins </br>
 	2nd: 30% of all buy-ins </br>
-	3rd 10% of all buy-ins </br>
+	3rd: 10% of all buy-ins </br>
+
+	<b> Magic the Gathering Information </b></br>
+	</br>
+	Make sure to bring your own deck if you wish to play. </br>
+	This will likely be a challenge based area where people just play eachother for fun and games can be watched.</br></br>
+	------------------------------------------------------------------------------------------------------------------------------------------------------------ </br>
+	<b> Hearthstone Information </b></br>
+	<b>** Tournament Registration is sign up at event) ** </b> </br>
+	</br>
+	<b>** Ruleset for League **</b> </br>
+	Contact Kase or Brad or see the UC Hearthstone <a href= https://www.facebook.com/groups/255773791258321/>Facebook Page</a>. </br>
+	</br>
+	<b>** PRIZING **</b> </br>
+	TO BE ANNOUNCED </br></br>
+	------------------------------------------------------------------------------------------------------------------------------------------------------------ </br>
+	<b>** Schedule ** </b> </br>
+	12:00 PM - Registration opens for 1v1 round robin, free play </br>	 
+	1:00 PM - Registration closes and 1v1 starts </br>		
+	4:00 PM - Final 4 double elim finals </br>		 
+	6:00 PM - Auto Deck tournament (no prizes)	</br></br>	
+	
+
+	<b> Anime Information </b></br>
+	</br>
+	The Anime club will be having Anime shows on. </br></br>
+	
 </p>
 
 
