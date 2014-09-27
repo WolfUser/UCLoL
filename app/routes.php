@@ -31,6 +31,8 @@ Route::get('/ourstaff', 'ViewController@ourStaff');
 
 Route::get('/donations', 'ViewController@donations');
 
+Route::get('/game-day', 'ViewController@gameDay')
+
 // REST controller
 
 Route::controller('rest', 'RestController');

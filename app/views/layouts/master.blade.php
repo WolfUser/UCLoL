@@ -56,6 +56,7 @@
                                 <li><a href="/calendar">Calendar</a></li>
 								<li><a href="/ourstaff">Our Staff</a></li>
                                 <li><a href="/donations">Donations</a></li>
+                                <li><a href="/game-day">Game Day</a></li>
 							</ul>
 						</div>
 					</div>

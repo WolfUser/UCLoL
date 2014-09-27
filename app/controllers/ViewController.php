@@ -48,4 +48,8 @@ class ViewController extends BaseController {
 	public function donations() {
 		$this->layout->content = View::make('donations');
 	}
+
+	public function gameDay() {
+		$this->layout->content = View::make('gameDay');
+	}
 }
