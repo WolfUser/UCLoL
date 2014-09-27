@@ -72,15 +72,14 @@
 	Contact Kase or Brad or see the UC Hearthstone <a href= https://www.facebook.com/groups/255773791258321/>Facebook Page</a>. </br>
 	</br>
 	<b>** PRIZING **</b> </br>
-	TO BE ANNOUNCED </br></br>
-	------------------------------------------------------------------------------------------------------------------------------------------------------------ </br>
+	TO BE ANNOUNCED </br></br>------------------------------------------------------------------------------------------------------------------------------------------------------------ </br>
 	<b>** Schedule ** </b> </br>
 	12:00 PM - Registration opens for 1v1 round robin, free play </br>	 
 	1:00 PM - Registration closes and 1v1 starts </br>		
 	4:00 PM - Final 4 double elim finals </br>		 
 	6:00 PM - Auto Deck tournament (no prizes)	</br></br>	
 	
-
+	------------------------------------------------------------------------------------------------------------------------------------------------------------ </br>
 	<b> Anime Information </b></br>
 	</br>
 	The Anime club will be having Anime shows on. </br></br>
