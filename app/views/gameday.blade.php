@@ -52,14 +52,14 @@
 	Super Smash Bros Melee / Project M singles / doubles): TBD (contact Juanita with questions/comments) </br>
 	<b>** Ruleset for Console Gaming **</b> </br>
 	Smash Bros: <a href=http://smashboards.com/rulesets/melee/>Link to Ruleset</a> </br>
-	</br> BlazBlue: <a href=https://docs.google.com/document/d/1CYEjCtqqxewnd3sil8UzRNomm9fpcfMZikjMD0TPucA/edit?usp=sharing> Link to Ruleset</a> </br>
+	BlazBlue: <a href=https://docs.google.com/document/d/1CYEjCtqqxewnd3sil8UzRNomm9fpcfMZikjMD0TPucA/edit?usp=sharing> Link to Ruleset</a> </br>
 	</br>
 	<b>** PRIZING **</b> </br>
 	Smash BRos: If we do buy-in tournament, then 100% payout </br>
 	1st: 60% of all buy-ins </br>
 	2nd: 30% of all buy-ins </br>
-	3rd: 10% of all buy-ins </br>
-
+	3rd: 10% of all buy-ins </br> </br>
+	------------------------------------------------------------------------------------------------------------------------------------------------------------ </br>
 	<b> Magic the Gathering Information </b></br>
 	</br>
 	Make sure to bring your own deck if you wish to play. </br>
