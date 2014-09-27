@@ -13,7 +13,7 @@
 	UCLoL is providing food, consoles, games, tournaments, raffles, and giveaways! UC:MTG will be hosting tables for 
 	(you guessed it) MTG! UC Hearthstone will be hosting UC's first in-person Hearthstone tournament, and Anime UC 
 	will be showing anime, hosting some console games, and providing awesome Japanese food, candy, and drinks!
-	</br>
+	</br> </br>
 	<b> ** General Schedule for non-game events** </b> </br>
 	12:00 PM - Doors Open </br>
 	3:00 PM - Pizza arrives  </br>
