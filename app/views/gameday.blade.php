@@ -39,7 +39,6 @@
 	4th place: 800 RP per player </br>
 	<b>LoL (1v1): </b> </br> 
 	A selection from our SWAG BAG </br></br>
-
 	<b>  ***** ANYONE who signs up for a 1v1 or 5v5 tournament will be eligble to win a Plantronics Headset! *****</b> </br></br>
 
 	<b>** Schedule ** </b> </br>
@@ -50,7 +49,7 @@
 	6:00 PM - Inhouses, chase the teemo, etc. </br></br>
 	------------------------------------------------------------------------------------------------------------------------------------------------------------ </br>
 	<b> Console Gaming Information </b></br>
-	<b>** Tournament Registration (OPEN or sign up @ event) ** </b> </br>
+	<b>** Tournament Registration (sign up at event) ** </b> </br>
 	Super Smash Bros Melee / Project M singles / doubles: TBD (contact Juanita with questions/comments) </br></br>
 	<b> Games that will be played: </b> </br>
 	- BlazBlue: Continuum Shift (360) </br>
