@@ -83,7 +83,7 @@
 	This will likely be a challenge based area where people just play eachother for fun and games can be watched.</br></br>
 	------------------------------------------------------------------------------------------------------------------------------------------------------------ </br>
 	<b> Hearthstone Information - Room 819 </b></br>
-	<b>** Tournament Registration is sign up at event ** </b> </br>
+	<b>** Tournament Registration: sign up at event ** </b> </br>
 	</br>
 	<b>** Ruleset for League **</b> </br>
 	Contact Kase or Brad or see the UC Hearthstone <a href= https://www.facebook.com/groups/255773791258321/>Facebook Page</a>. </br>
