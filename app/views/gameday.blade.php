@@ -39,7 +39,8 @@
 	4th place: 800 RP per player </br>
 	<b>LoL (1v1): </b> </br> 
 	A selection from our SWAG BAG (and one more prize TBA) </br></br>
-	<b> ANYONE who signs up for a 1v1 or 5v5 tournament will be eligble to win a Plantronics Headset!
+
+	<b>  ***** ANYONE who signs up for a 1v1 or 5v5 tournament will be eligble to win a Plantronics Headset! *****</b> </br>
 
 	<b>** Schedule ** </b> </br>
 	12:30 PM - First 1v1 tourney begins </br>
