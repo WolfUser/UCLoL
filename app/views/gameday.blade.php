@@ -24,8 +24,8 @@
 	------------------------------------------------------------------------------------------------------------------------------------------------------------ </br>
 	<b> League of Legends Information </b></br>
 	<b>** Tournament Registration (OPEN or sign up @ event) ** </b> </br>
-	LoL (5v5): <a href=http://battlefy.com/uclol/uclol-5v5-fall-tournament/5407e3ca3878a9d1089ffab1/info> Sing up here!</a> </br>
-	LoL (1v1): Sign up @ event </br>
+	LoL (5v5): <a href=http://battlefy.com/uclol/uclol-5v5-fall-tournament/5407e3ca3878a9d1089ffab1/info> Sign up here!</a> </br>
+	LoL (1v1): Sign up at event </br>
 	</br>
 	<b>** Ruleset for League **</b> </br>
 	<a href=https://docs.google.com/document/d/1qPF7Ym1tdgYSnzvmY-90wxhObRv_a_wjoNMxhFWA94s/edit?usp=sharing>Link to Ruleset</a> 
@@ -47,15 +47,15 @@
 	5:00 PM - Finals for 5v5 begin (tenatively) </br>
 	6:00 PM - Inhouses, chase the teemo, etc. </br></br>
 	------------------------------------------------------------------------------------------------------------------------------------------------------------ </br>
-	<b> Consol Gaming Information </b></br>
+	<b> Console Gaming Information </b></br>
 	<b>** Tournament Registration (OPEN or sign up @ event) ** </b> </br>
-	Super Smash Bros Melee / Project M singles / doubles): TBD (contact Juanita with questions/comments) </br>
+	Super Smash Bros Melee / Project M singles / doubles: TBD (contact Juanita with questions/comments) </br>
 	<b>** Ruleset for Console Gaming **</b> </br>
 	Smash Bros: <a href=http://smashboards.com/rulesets/melee/>Link to Ruleset</a> </br>
 	BlazBlue: <a href=https://docs.google.com/document/d/1CYEjCtqqxewnd3sil8UzRNomm9fpcfMZikjMD0TPucA/edit?usp=sharing> Link to Ruleset</a> </br>
 	</br>
 	<b>** PRIZING **</b> </br>
-	Smash BRos: If we do buy-in tournament, then 100% payout </br>
+	Smash Bros: If we do buy-in tournaments, then there will be a 100% payout </br>
 	1st: 60% of all buy-ins </br>
 	2nd: 30% of all buy-ins </br>
 	3rd: 10% of all buy-ins </br> </br>
@@ -66,7 +66,7 @@
 	This will likely be a challenge based area where people just play eachother for fun and games can be watched.</br></br>
 	------------------------------------------------------------------------------------------------------------------------------------------------------------ </br>
 	<b> Hearthstone Information </b></br>
-	<b>** Tournament Registration is sign up at event) ** </b> </br>
+	<b>** Tournament Registration is sign up at event ** </b> </br>
 	</br>
 	<b>** Ruleset for League **</b> </br>
 	Contact Kase or Brad or see the UC Hearthstone <a href= https://www.facebook.com/groups/255773791258321/>Facebook Page</a>. </br>
