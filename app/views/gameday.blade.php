@@ -51,13 +51,13 @@
 	------------------------------------------------------------------------------------------------------------------------------------------------------------ </br>
 	<b> Console Gaming Information </b></br>
 	<b>** Tournament Registration (OPEN or sign up @ event) ** </b> </br>
-	Super Smash Bros Melee / Project M singles / doubles: TBD (contact Juanita with questions/comments) </br>
+	Super Smash Bros Melee / Project M singles / doubles: TBD (contact Juanita with questions/comments) </br></br>
 	<b> Games that will be played: </b> </br>
 	- BlazBlue: Continuum Shift (360) </br>
 	- Super Street Fighter 4 (360) </br>
 	- Mario Kart 8 (Wii U) </br>
 	- Hyrule Warriors (Wii U) </br>
-	- Super Smash Bros. Brawl (Wii U) </br>
+	- Super Smash Bros. Brawl (Wii U) </br></br>
 
 	<b>** Ruleset for Console Gaming **</b> </br>
 	Smash Bros: <a href=http://smashboards.com/rulesets/melee/>Link to Ruleset</a> </br>
