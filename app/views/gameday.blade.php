@@ -12,7 +12,9 @@
 	</br>
 	UCLoL is providing food, consoles, games, tournaments, raffles, and giveaways! UC:MTG will be hosting tables for 
 	(you guessed it) MTG! UC Hearthstone will be hosting UC's first in-person Hearthstone tournament, and Anime UC 
-	will be showing anime, hosting some console games, and providing awesome Japanese food, candy, and drinks!
+	will be showing anime, hosting some console games, and providing awesome Japanese food, candy, and drinks! </br>
+	As you enter, you will be given one raffle ticket that will used for a chance to win a Plantronics Gaming Headset
+	and other awesome prizes.
 	</br> </br>
 	<b> ** General Schedule for non-game events** </b> </br>
 	12:00 PM - Doors Open </br>
@@ -22,8 +24,8 @@
 	</br>
 	For more information on a certain club's events, see below. </br></br>
 	------------------------------------------------------------------------------------------------------------------------------------------------------------ </br>
-	<b> League of Legends Information </b></br>
-	<b>** Tournament Registration (OPEN or sign up @ event) ** </b> </br>
+	<b> League of Legends Information - Room 800 </b></br>
+	<b>** Tournament Registration ** </b> </br>
 	LoL (5v5): <a href=http://battlefy.com/uclol/uclol-5v5-fall-tournament/5407e3ca3878a9d1089ffab1/info> Sign up here!</a> </br>
 	LoL (1v1): Sign up at event </br>
 	</br>
@@ -33,13 +35,13 @@
 	</br>
 	<b>** PRIZING **</b> </br>
 	<b>LoL (5v5):</b>  </br>
-	1st place: 3200 RP, Triumphant Ryze skin for every player, and 5 Plantronics Headsets! </br>
+	1st place: 3200 RP, Triumphant Ryze skin for every player, and 5 Plantronics Gaming Headsets! </br>
 	2nd place: 2400 RP per player </br>
 	3rd place: 1600 RP per player </br>
 	4th place: 800 RP per player </br>
 	<b>LoL (1v1): </b> </br> 
 	A selection from our SWAG BAG </br></br>
-	<b>  ***** ANYONE who signs up for a 1v1 or 5v5 tournament will be eligble to win a Plantronics Headset! *****</b> </br></br>
+	<b>  ***** ANYONE who signs up for a 1v1 or 5v5 tournament will be eligble to win a Plantronics Gaming Headset! *****</b> </br></br>
 
 	<b>** Schedule ** </b> </br>
 	12:30 PM - First 1v1 tourney begins </br>
@@ -48,7 +50,7 @@
 	5:00 PM - Finals for 5v5 begin (tenatively) </br>
 	6:00 PM - Inhouses, chase the teemo, etc. </br></br>
 	------------------------------------------------------------------------------------------------------------------------------------------------------------ </br>
-	<b> Console Gaming Information </b></br>
+	<b> Console Gaming Information - Room 819 </b></br>
 	<b>** Tournament Registration (sign up at event) ** </b> </br>
 	Super Smash Bros Melee / Project M singles / doubles: TBD (contact Juanita with questions/comments) </br></br>
 	<b> Games that will be played: </b> </br>
@@ -67,20 +69,27 @@
 	1st: 60% of all buy-ins </br>
 	2nd: 30% of all buy-ins </br>
 	3rd: 10% of all buy-ins </br> </br>
+
+	<b>** Schedule ** </b> </br>
+	12:00 PM - Console Tournament sign ups begin </br>
+	12:30 PM - Warm ups begin for games </br>
+	1:30 PM - Sign ups end for tournaments
+	2:00 PM - Console Tournaments begin </br>
+	2:30 PM - Systems not being used for tournaments are open to free play. </br></br>
 	------------------------------------------------------------------------------------------------------------------------------------------------------------ </br>
-	<b> Magic the Gathering Information </b></br>
+	<b> Magic the Gathering Information - Room 816 </b></br>
 	</br>
 	Make sure to bring your own deck if you wish to play. </br>
 	This will likely be a challenge based area where people just play eachother for fun and games can be watched.</br></br>
 	------------------------------------------------------------------------------------------------------------------------------------------------------------ </br>
-	<b> Hearthstone Information </b></br>
+	<b> Hearthstone Information - Room 819 </b></br>
 	<b>** Tournament Registration is sign up at event ** </b> </br>
 	</br>
 	<b>** Ruleset for League **</b> </br>
 	Contact Kase or Brad or see the UC Hearthstone <a href= https://www.facebook.com/groups/255773791258321/>Facebook Page</a>. </br>
 	</br>
 	<b>** PRIZING **</b> </br>
-	TO BE ANNOUNCED </br></br>------------------------------------------------------------------------------------------------------------------------------------------------------------ </br>
+	1st Place: Plantronics Gaming Headset and more (TBA) </br></br>
 	<b>** Schedule ** </b> </br>
 	12:00 PM - Registration opens for 1v1 round robin, free play </br>	 
 	1:00 PM - Registration closes and 1v1 starts </br>		
@@ -88,7 +97,7 @@
 	6:00 PM - Auto Deck tournament (no prizes)	</br></br>	
 	
 	------------------------------------------------------------------------------------------------------------------------------------------------------------ </br>
-	<b> Anime Information </b></br>
+	<b> Anime Information - Room 818 </b></br>
 	</br>
 	The Anime club will be having Anime shows on. </br></br>
 	
