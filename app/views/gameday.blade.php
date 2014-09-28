@@ -73,7 +73,7 @@
 	<b>** Schedule ** </b> </br>
 	12:00 PM - Console Tournament sign ups begin </br>
 	12:30 PM - Warm ups begin for games </br>
-	1:30 PM - Sign ups end for tournaments
+	1:30 PM - Sign ups end for tournaments </br>
 	2:00 PM - Console Tournaments begin </br>
 	2:30 PM - Systems not being used for tournaments are open to free play. </br></br>
 	------------------------------------------------------------------------------------------------------------------------------------------------------------ </br>
