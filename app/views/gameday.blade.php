@@ -26,7 +26,7 @@
 	------------------------------------------------------------------------------------------------------------------------------------------------------------ </br>
 	<b> League of Legends Information - Room 800 </b></br>
 	<b>** Tournament Registration ** </b> </br>
-	LoL (5v5): <a href=http://battlefy.com/uclol/uclol-5v5-fall-tournament/5407e3ca3878a9d1089ffab1/info> Sign up here!</a> </br>
+	LoL (5v5): <a href=http://battlefy.com/uclol/uclol-5v5-fall-tournament/5407e3ca3878a9d1089ffab1/info> Sign up here with the password UC </a> </br>
 	LoL (1v1): Sign up at event </br>
 	</br>
 	<b>** Ruleset for League **</b> </br>
