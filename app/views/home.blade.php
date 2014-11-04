@@ -48,8 +48,8 @@
 										<div class="wcontainer">
 											<a href="#" title="Game Addict vs Fnatic - Friendly">
 												<div class="nextmatch_wrap">
-													<img src="./img/defaults/140x102.jpg" class="clan1">
-													<img src="./img/defaults/140x102.jpg" class="clan2">
+													<img src="http://i.imgur.com/gc4Ww8U.png" class="clan1">
+													<img src="http://i.imgur.com/MNpZecj.png" class="clan2">
 													<div class="clear"></div>
 													<div class="nm-clans navbar-inverse">
 														<div class="r-home-team">
