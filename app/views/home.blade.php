@@ -53,16 +53,16 @@
 													<div class="clear"></div>
 													<div class="nm-clans navbar-inverse">
 														<div class="r-home-team">
-															<span>TBD</span>
+															<span>Team Black</span>
 														</div>
 														<div class="versus">VS</div>
 														<div class="r-opponent-team">
-															<span>TBD</span>
+															<span>Case Western</span>
 														</div>
 														<div class="clear"></div>
 													</div>
 													<div class="nm-date">
-														September 13th, 2014, <span>TBD</span>
+														November 6th 2014 at 9:30PM, <span href="http://www.twitch.tv/collegiatelol">Stream</span>
 													</div>
 												</div>
 											</a>
@@ -91,14 +91,14 @@
 													<div class="wrap">
 														<div class="upcoming">Upcoming</div>
 														<div class="match-wrap">
-															<div class="home-team">TBD</div>
+															<div class="home-team">UCBLack</div>
 															<span class="vs">vs.</span>
 															<div class="opponent-team">
-																TBD
+																Case Western
 															</div>
 															<div class="clear"></div>
 														</div>
-														<div class="date">LoL - September 13, 2014, TBD</div>
+														<div class="date">LoL - November 6, 2014, 9:30PM</div>
 														<div class="clear"></div>
 													</div>
 												</a>
