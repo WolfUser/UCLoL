@@ -35,7 +35,7 @@
 	3rd place: 1600 RP per player </br>
 	4th place: 800 RP per player </br>
 	<b>LoL (1v1): </b> </br> 
-	A selection from our SWAG BAG </br>
+	A selection from our SWAG BAG and a Kayle Skin code</br>
 	<b>LoL 1v1 tourney will begin around 4:30 PM. Sign ups are in person at the event and will be held in Room 800.</b> </br>
 	</br>
 
@@ -55,7 +55,7 @@
 	- Super Street Fighter 4 (360) </br>
 	- Mario Kart 8 (Wii U) </br>
 	- Hyrule Warriors (Wii U) </br>
-	- Super Smash Bros. Brawl (Wii U) </br>
+	- Super Smash Bros </br>
 	- And even more... </br></br>
 
 	<b>** Ruleset for Console Gaming **</b> </br>
