@@ -105,7 +105,13 @@
 	8:00 PM - Tournament over </br>
 	</br>
 	------------------------------------------------------------------------------------------------------------------------------------------------------------ </br>
-	
+	<b> Anime Club Information - Room 808 </b></br>
+	Anime Club will be showing various sections of great Anime series. Pop into Room 808 to see if you like what is showing at that time. </br>
+	------------------------------------------------------------------------------------------------------------------------------------------------------------ </br>
+	<b> Magic the Gathering Information - Room 809 </b></br>
+	Magic the Gathering will be having casual play throughout the entire day in Room 809. </br>
+	------------------------------------------------------------------------------------------------------------------------------------------------------------ </br>
+
 	
 </p>
 
