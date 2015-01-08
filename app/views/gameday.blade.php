@@ -9,7 +9,7 @@
 	- DotA2</br>
 	- Hearthstone </br>
 	</br>
-	</br> </br>
+	</br>
 	<b> ** General Schedule for non-game events** </b> </br>
 	12:00 PM - Doors Open for gamers </br>
 	2:30 PM - Food arrives for those not in tournament games  </br>
@@ -36,7 +36,7 @@
 	4th place: 800 RP per player </br>
 	<b>LoL (1v1): </b> </br> 
 	A selection from our SWAG BAG </br>
-	LoL 1v1 tourney will begin around 4:30 PM. Sign ups are in person at the event and will be held in Room 800. </br>
+	<b>LoL 1v1 tourney will begin around 4:30 PM. Sign ups are in person at the event and will be held in Room 800.</b> </br>
 	</br>
 
 	<b>** Schedule for 5v5 Tournament** </b> </br>
@@ -55,8 +55,8 @@
 	- Super Street Fighter 4 (360) </br>
 	- Mario Kart 8 (Wii U) </br>
 	- Hyrule Warriors (Wii U) </br>
-	- Super Smash Bros. Brawl (Wii U) </br></br>
-	- And even more... </br>
+	- Super Smash Bros. Brawl (Wii U) </br>
+	- And even more... </br></br>
 
 	<b>** Ruleset for Console Gaming **</b> </br>
 	Smash Bros: <a href=http://smashboards.com/rulesets/melee/>Link to Ruleset</a> </br>
@@ -97,13 +97,13 @@
 	For more information on the "Duel" format, see  <a href=http://www.tryingtobegosu.com/2014/12/review-worlds-1st-hearthstone-tournament-to-use-duel/> here</a>  </br>
 	</br>
 	<b>** Schedule ** </b> </br>
-	1:00 PM - Registration opens
-	2:00 PM - Registration closes and tournament 1 begins
-	4:00 PM - Tournament over
-	5:00 PM - Registration opens for next tournament
-	6:00 PM - Registration closes and tournament 2 begins
-	8:00 PM - Tournament over
-	
+	1:00 PM - Registration opens </br>
+	2:00 PM - Registration closes and tournament 1 begins </br>
+	4:00 PM - Tournament over </br>
+	5:00 PM - Registration opens for next tournament </br>
+	6:00 PM - Registration closes and tournament 2 begins </br>
+	8:00 PM - Tournament over </br>
+	</br>
 	------------------------------------------------------------------------------------------------------------------------------------------------------------ </br>
 	
 	
