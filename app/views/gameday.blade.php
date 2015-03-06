@@ -2,6 +2,14 @@
 
 @section('content')
 <p>
+
+	<b> GAME DAY IS OVER. </b></br>
+	Prizes have been distruibuted. Thank you for coming and supporting the variety of clubs and games. We look forward to seeing you at next game day! </br>
+	</br>
+	</br>
+	</br>
+	------------------------------------------------------------------------------------------------------------------------------------------------------------ </br>
+	</br>
 	<b> Game Day will be held on February 7th in the Swift Building. </b> </br>
 	Game Day will have many different events throughout the day. Please see below to find the game you wish to know the gaming schedule of. </br>
 	Games with major events are are: </br>

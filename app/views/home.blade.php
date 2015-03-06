@@ -53,16 +53,16 @@
 													<div class="clear"></div>
 													<div class="nm-clans navbar-inverse">
 														<div class="r-home-team">
-															<span>Team Black</span>
+															<span>UC Team Black</span>
 														</div>
 														<div class="versus">VS</div>
 														<div class="r-opponent-team">
-															<span>Case Western</span>
+															<span>To Be Determined</span>
 														</div>
 														<div class="clear"></div>
 													</div>
 													<div class="nm-date">
-														November 6th 2014 at 9:30PM, <span href="http://www.twitch.tv/collegiatelol">Stream</span>
+														March 21, 2015. Time: TBD, <!--<span href="http://www.twitch.tv/collegiatelol">Stream</span>-->
 													</div>
 												</div>
 											</a>
