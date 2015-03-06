@@ -49,7 +49,7 @@
 											<a href="#" title="Game Addict vs Fnatic - Friendly">
 												<div class="nextmatch_wrap">
 													<img src="http://i.imgur.com/epw4jJ2.jpg" class="clan1">
-													<img src="http://i.imgur.com/fb0RM2h.jpg" class="clan2">
+													<!--<img src="http://i.imgur.com/fb0RM2h.jpg" class="clan2">-->
 													<div class="clear"></div>
 													<div class="nm-clans navbar-inverse">
 														<div class="r-home-team">
